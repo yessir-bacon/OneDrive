@@ -1,0 +1,13 @@
+# Ignore everything
+*
+*/
+
+# Don't ignore these folders and its contents
+!Classify_Pancytopenia/
+!Classify_Pancytopenia/**
+
+# Don't ignore README.md if it exists
+!README.md
+
+# Don't ignore .gitignore itself
+!.gitignore
