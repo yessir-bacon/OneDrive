@@ -6,6 +6,9 @@
 !Classify_Pancytopenia/
 !Classify_Pancytopenia/**
 
+!Hierarchical_Time_Series/
+!Hierarchical_Time_Series/**
+
 # Don't ignore README.md if it exists
 !README.md
 
